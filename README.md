@@ -6,4 +6,4 @@ Meu nome e Pamela;
 - Estou me desenvolvendo na linguagem Javascript;
 - Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos
 
-![](https://tenor.com/pt-BR/view/funny-dogs-me-so-happy-smile-dog-gif-13164685)
+![](https://media1.tenor.com/m/YYbqPqvXHn8AAAAd/funny-dogs-me-so-happy.gif)
